@@ -1,0 +1,22 @@
+﻿<h3>Shardan NanoGallery</h3>
+<p class="Contributor">
+	Shardan <br />
+	<a href="mailto:dlfergrd@shaw.ca">dlfergrd@shaw.ca</a><br />
+	<a href=http://www.shardan.ca>http://www.shardan.ca</a><br />
+</p>
+<hr/>
+<div class="License">
+	<h3>Shardan NanoGallery</h3>
+	<p class="Owner">
+		<b>Version 1.0.1</b><br /><br />
+	</p>
+	<p>Description:</p>
+	<p>This module allows the creation of a photo gallery using the NanoGallery JQuery script.<br/>
+	For personal, non-profit organizations, or open source projects (without any kind of fee), you may use nanoGALLERY for jQuery for free. Visit <a href=http://nanogallery.brisbois.fr>nanogallery.brisbois.fr</a> for more information.
+	</p>
+	<h4>Bug Fixes</h4>
+	<ul>
+			<li>Initial Release</li>
+	</ul>
+	
+</div>

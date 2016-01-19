@@ -1,0 +1,28 @@
+﻿<div class="License">
+	<h3>License</h3>
+	<p class="Owner">
+		Shardan  <a href=http://www.shardan.ca>http://www.shardan.ca</a></br>
+		Copyright (c) 2016</br>	
+		by Shardan</br>
+	</p>
+	<h2>nanoGallery Specific</h2>
+	<p>
+	For personal, non-profit organizations, or open source projects (without any kind of fee), you may use nanoGALLERY for jQuery for free. nanoGALLERY for jQuery is licensed under CC BY-NC 3.0. It may be used in commercial projects and applications, or in business environments with the purchase of a professional license.<br/>
+	If fees are associated to the use of nanoGALLERY, your project is not eligible to this license.<br/>
+	For more information about nanoGallery visit <a href=http://nanogallery.brisbois.fr>nanogallery.brisbois.fr</a>
+	</p>
+	<h2>Shardan nanoGallery</h2>
+    <p>
+        Permission is hereby granted, free of charge, to any person obtaining a copy of this dnn software and associated 
+        documentation files (the "Software"), to deal in the Software without restriction, including without limitation 
+        the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and 
+        to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+    </p>
+    <p>
+        The above copyright notice and this permission notice shall be included in all copies or substantial portions 
+        of the Software.
+    </p>
+    <p>
+        THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+    </p>
+</div>

@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="ControlTitle_settings.Text" xml:space="preserve">
+    <value>Shardan NanoGallery Settings</value>
+  </data>
+  <data name="ExpandAll.Text" xml:space="preserve">
+    <value>Expand All</value>
+  </data>
+  <data name="GallerySettings.Text" xml:space="preserve">
+    <value>Gallery Settings</value>
+  </data>
+  <data name="lblBaseFolderPath.Help" xml:space="preserve">
+    <value>This is the path to the pictures in this gallery. (Upload picture files to this directory, then rescan the directory into the database to create thumbnails.)</value>
+  </data>
+  <data name="lblBaseFolderPath.Text" xml:space="preserve">
+    <value>Gallery Base Folder Path</value>
+  </data>
+  <data name="lblBreadcrumbAutoHideTopLevel.Help" xml:space="preserve">
+    <value>Show or hide the top level breadcrumb if there are multiple albums.</value>
+  </data>
+  <data name="lblBreadcrumbAutoHideTopLevel.Text" xml:space="preserve">
+    <value>Hide top level breadcrumb</value>
+  </data>
+  <data name="lblGDescription.Help" xml:space="preserve">
+    <value>Enter the description of your gallery.</value>
+  </data>
+  <data name="lblGDescription.Text" xml:space="preserve">
+    <value>Gallery Description</value>
+  </data>
+  <data name="lblGName.Help" xml:space="preserve">
+    <value>Enter the title of your gallery.</value>
+  </data>
+  <data name="lblGName.Text" xml:space="preserve">
+    <value>Gallery Title</value>
+  </data>
+  <data name="lblMaxItemsPerLine.Help" xml:space="preserve">
+    <value>The maximun number of thumbnails you wish to show on a line.</value>
+  </data>
+  <data name="lblMaxItemsPerLine.Text" xml:space="preserve">
+    <value>Max Items per Line</value>
+  </data>
+  <data name="lblPaginationMaxLinesPerPage.Help" xml:space="preserve">
+    <value>The maximum number of lines of thumbnails you wish to show.</value>
+  </data>
+  <data name="lblPaginationMaxLinesPerPage.Text" xml:space="preserve">
+    <value>Max. Lines per page.</value>
+  </data>
+  <data name="lblTheme.Help" xml:space="preserve">
+    <value>Select the theme.</value>
+  </data>
+  <data name="lblTheme.Text" xml:space="preserve">
+    <value>Theme</value>
+  </data>
+  <data name="lblThumbnailHeight.Help" xml:space="preserve">
+    <value>The height of the displayed thumbnail picture (Default 120)</value>
+  </data>
+  <data name="lblThumbnailHeight.Text" xml:space="preserve">
+    <value>Thumbnail Height</value>
+  </data>
+  <data name="lblThumbnailHoverEffect.Help" xml:space="preserve">
+    <value>Select up to three effects. Use from left to right. Any entries after a "none" selection will be ignored. (Please note that some effects can not be combined (for example: 'imageSlideUp' and 'imageFlipHorizontal'). And some combinations can results in weirds effects...)</value>
+  </data>
+  <data name="lblThumbnailHoverEffect.Text" xml:space="preserve">
+    <value>Thumbnail Hover Effect</value>
+  </data>
+  <data name="lblThumbnailWidth.Help" xml:space="preserve">
+    <value>The width of the displayed thumbnail picture. (Default 120)</value>
+  </data>
+  <data name="lblThumbnailWidth.Text" xml:space="preserve">
+    <value>Thumbnail Width</value>
+  </data>
+  <data name="ThumbNailSettings.Text" xml:space="preserve">
+    <value>Thumbnail Options</value>
+  </data>
+  <data name="lblColorScheme.Help" xml:space="preserve">
+    <value>Select the color scheme for the gallery.</value>
+  </data>
+  <data name="lblColorScheme.Text" xml:space="preserve">
+    <value>Gallery color scheme (breadcrumb and thumbnails).</value>
+  </data>
+  <data name="lblLocationHash.Help" xml:space="preserve">
+    <value>Enables hash tracking.
+This will activate browser Back/Forward navigation (browser history support) and Deep Linking of images and photo albums.
+Note: only one gallery per page should use this feature.</value>
+  </data>
+  <data name="lblLocationHash.Text" xml:space="preserve">
+    <value>Location Hash</value>
+  </data>
+  <data name="lblPaginationDots.Help" xml:space="preserve">
+    <value>Displays dots for thumbnail pagination instead of page numbers.</value>
+  </data>
+  <data name="lblPaginationDots.Text" xml:space="preserve">
+    <value>Pagination Dots</value>
+  </data>
+  <data name="OtherSettings.Text" xml:space="preserve">
+    <value>Other Options</value>
+  </data>
+  <data name="lblThumbnailGutterHeight.Help" xml:space="preserve">
+    <value>Sets the vertical gutter space between thumbnails.</value>
+  </data>
+  <data name="lblThumbnailGutterHeight.Text" xml:space="preserve">
+    <value>Vertical Spacing</value>
+  </data>
+  <data name="lblThumbnailGutterWidth.Help" xml:space="preserve">
+    <value>Sets the horizontal gutter space between thumbnails.</value>
+  </data>
+  <data name="lblThumbnailGutterWidth.Text" xml:space="preserve">
+    <value>Horizontal Spacing</value>
+  </data>
+  <data name="Error.GutterHeight" xml:space="preserve">
+    <value>Must be a number between 0 and 600!</value>
+  </data>
+  <data name="Error.GutterWidth" xml:space="preserve">
+    <value>Must be a number between 0 and 600!</value>
+  </data>
+  <data name="Error.ItemsPerLine" xml:space="preserve">
+    <value>Must be a number between 1 and 20!</value>
+  </data>
+  <data name="Error.LinesPerPage" xml:space="preserve">
+    <value>Must be a number between 1 and 1000!</value>
+  </data>
+  <data name="Error.Number" xml:space="preserve">
+    <value>You must enter a number!</value>
+  </data>
+  <data name="Error.ThumbnailHeight" xml:space="preserve">
+    <value>Must be a number between 50 and 400!</value>
+  </data>
+  <data name="Error.ThumbnailWidth" xml:space="preserve">
+    <value>Must be a number between 50 and 400!</value>
+  </data>
+  <data name="EditWindowSettings.Text" xml:space="preserve">
+    <value>Edit Window Options</value>
+  </data>
+  <data name="Error.LinesPerEditPage" xml:space="preserve">
+    <value>Must be a number  &gt;2! </value>
+  </data>
+  <data name="lblLinesPerPage.Help" xml:space="preserve">
+    <value>Enter how many pictures you wish to show on each page in the edit window.</value>
+  </data>
+  <data name="lblLinesPerPage.Text" xml:space="preserve">
+    <value>Images per page:</value>
+  </data>
+  <data name="lblCountDisplay.Help" xml:space="preserve">
+    <value>Displays the number of items per photo album either in the Title or the Description. None will disable this.</value>
+  </data>
+  <data name="lblCountDisplay.Text" xml:space="preserve">
+    <value>Album Item Count</value>
+  </data>
+</root>

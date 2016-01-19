@@ -1,0 +1,130 @@
+/*View classes*/
+.divgalleryContainer{
+
+}
+.divGalleryView{
+
+}
+.divViewDescription{
+    text-align: center;
+}
+.lblViewDescription{
+    font-weight:bold;
+}
+.divRecsanGallery{
+    padding-top:10px;
+    text-align: center;
+}
+
+/*Edit classes*/
+/*Single item display*/
+.divDisplayPhoto{
+    float:left;
+}
+.imgDisplayPhoto{
+
+}
+.divItems{
+    float:left;
+    width:75%;
+}
+
+/*Multi item display*/
+
+.divPhotolistcontent{
+
+}
+
+.divImagArea{
+width:15%;
+    float:left;
+}
+.divEditArea{
+    float:left;
+}
+.divCheckBox{
+
+}
+.divEditLink{
+    padding-right: 20px;
+}
+
+.divImage{
+
+}
+.divDel{
+    padding-top:10px;
+}
+.lbPictureDelete{
+
+}
+.imgPhoto{
+    float: left;
+}
+
+
+.divInfoArea{
+float:left;
+height:120px;
+}
+.divPictureName{
+
+}
+.lblPictureName{
+ padding-left:110px;
+    margin-right:8px;
+}
+.lblItemName{
+    
+   
+}
+.divPictureDescription{
+   
+    
+    
+    
+}
+.lblPictureDescription{
+    padding-left:60px;
+    margin-right:8px;
+    
+}
+
+.lblItemDescription{
+   
+}
+
+.divType{
+    padding-left:110px;
+    margin-right:8px;
+}
+.lblType{
+    margin-right:8px;
+}
+.divAlbumID{
+padding-left:20px;
+}
+.lblThisAlbumID{
+    margin-right:8px;
+}
+.divThisItemID{
+padding-left:40px;
+}
+.lblTIID{
+    margin-right:8px;
+}
+.divCommandArea{
+    padding-top:20px;
+}
+.divCommandDelete{
+    float:left;
+}
+.divCommandAdd{
+    float:left;
+    padding-left:30px;
+    padding-right:5px;
+}
+.divCommandDDL{
+    padding-top:5px;
+}
+/*Settings classes*/
